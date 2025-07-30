@@ -8,4 +8,4 @@
 * <b> An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation</b> <br>
 <b>Zihao Luo</b>, Xiangde Luo, Zijun Gao and Guotai Wang*
 <b>MICCAI2024.</b><br>
-[[paper]([https://arxiv.org/abs/2407.02893])][[code](https://github.com/HiLab-git/UGTST)]
+[[paper](https://arxiv.org/abs/2407.02893)][[code](https://github.com/HiLab-git/UGTST)]
