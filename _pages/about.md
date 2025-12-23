@@ -17,4 +17,4 @@ redirect_from:
 - 2025 - present, Ph.D. in Artificial Intelligence, Shanghai Innovation Institute, Shanghai, China 
 - 2025 - present, Ph.D. in Mechanical Engineering, University of Electronic Science and Technology of China, Chengdu, China 
 - 2024 - 2025, M.Sc. in Mechanical Engineering, University of Electronic Science and Technology of China, Chengdu, China 
-- 2020 - 2024, B.E. in Mathematics and Applied Mathematics, Harbin Engineering University, Harbin, China. 
+- 2020 - 2024, B.Sc. in Mathematics and Applied Mathematics, Harbin Engineering University, Harbin, China. 
