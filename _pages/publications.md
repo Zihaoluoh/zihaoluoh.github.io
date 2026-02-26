@@ -12,7 +12,7 @@ author_profile: true
 **Conferences**
 * <b> InvCoSS: Inversion-driven Continual Self-supervised Learning in Medical Multi-modal Image Pre-training</b> <br>
 <b>Zihao Luo</b>, Shaohao Rui, Zhenyu Tang, Guotai Wang* and Xiaosong Wang*<br>
-<b>MICCAI2025.</b><br>
+<b>CVPR2026.</b><br>
 [[paper](https://arxiv.org/abs/2512.19213)][[code](https://github.com/Zihaoluoh/InvCoSS)]
 
 * <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
