@@ -10,6 +10,7 @@ redirect_from:
 - [Shanghai Innovation Institute(SII)(上海创智学院)](https://www.sii.edu.cn/), founded in 2024, is an institution dedicated to innovation in education and research in the field of AI.
 
 # Recent News
+*  On February 21, 2026, my paper about inversion-driven continual self-supervised learning([InvCoSS](https://arxiv.org/abs/2512.19213)), was accepted to CVPR2026.
 *  On June 18, 2025, my paper about the lymph nodes segmentation foundation model([LN-Seg-FM](https://arxiv.org/pdf/2503.00748)), was accepted to MICCAI2025.
 *  On June 17, 2024, my first paper, about active source-free domain adaptation ([UGTST](https://arxiv.org/pdf/2407.02893)), was accepted to MICCAI2024.
 
